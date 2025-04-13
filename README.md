@@ -8,7 +8,7 @@ Takes user interest and recommends one location.
 
 Provides concise facts (tourist attractions, culture, practical info).
 
-Creates a short promotional pitch.
+Creates a short summary, recommending it to the user.
 
 Combines LLM output with web search results.
 
