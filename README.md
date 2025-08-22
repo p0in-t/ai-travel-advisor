@@ -1,4 +1,4 @@
-# llm_homework1
+# AI Travel Advisor
 
 This Python script suggests a travel destination based on user input, retrieves key facts about it, and generates an enthusiastic recommendation. It uses a local LLaMA 3.2 model, LangChain for chaining prompts, and integrates DuckDuckGo and Wikipedia for additional information.
 
